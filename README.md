@@ -1,5 +1,5 @@
 # network-monitor
-
+ 
 A small Python script I built to monitor the status of websites or network devices.
 
 ## What it does:
